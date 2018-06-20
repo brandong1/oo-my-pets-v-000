@@ -4,6 +4,7 @@ class Cat
 
   def initialize(name)
     @name = name
+    self.new = name
   end
 
 
