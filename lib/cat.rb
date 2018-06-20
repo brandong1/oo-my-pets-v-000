@@ -1,6 +1,7 @@
 class Cat
 
-  attr_accessor :name, :mood
+  attr_accessor :name, 
+  attr_accessor :mood
 
   def initialize(name)
     @name = name
